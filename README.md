@@ -9,8 +9,8 @@ This project simulates a networked system with a temperature sensor, humidity se
 ## Components
 
 ### Temperature Sensor
--> Generates values between 20-30°C.
--> Sends data to the gateway via TCP.
+->Generates values between 20-30°C.
+->Sends data to the gateway via TCP.
 
 ### Humidity Sensor
 -> Generates values between 40-90%.
